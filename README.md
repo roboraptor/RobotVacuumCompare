@@ -2,7 +2,7 @@
 Comparsion of Robot Vacuums also suitable for Rooting / Valetudo
 
 | Brand |	Model	|	Created		|	Dock	|	Coverage (m^2)	|	Suction (Pa)	|	Battery (mAh)	|	Time (m)	|	DustBox (ml)	|	Noise (dB)	|	Price		|	Root/Valetudo |
-														
+|	---|	---|	---|	---|	---|	---|	---|	---|	---|	---|	---|	---|															
 |	Roborock	|	S5	|	02/2018		|	Charge	|	200	|	2000	|	5200	|	150	|	460	|	67		|	270USD		|	YES|
 |	Dreamo	|	D10 plus	|	05/2022		|	Dust	|		|	4000	|	5200	|	150	|	400	|	68		|	450USD		|	NO|
 |	Dreamo	|	D10s plus	|	05/2023		|	Dust	|		|	5000	|	5200	|	280	|	570	|	63		|	640USD		|	YES|
